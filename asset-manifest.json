@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/BlogReactRedux/static/js/main.c32e0911.chunk.js",
-    "main.js.map": "/BlogReactRedux/static/js/main.c32e0911.chunk.js.map",
-    "runtime-main.js": "/BlogReactRedux/static/js/runtime-main.ea20577e.js",
-    "runtime-main.js.map": "/BlogReactRedux/static/js/runtime-main.ea20577e.js.map",
-    "static/js/2.de26408b.chunk.js": "/BlogReactRedux/static/js/2.de26408b.chunk.js",
-    "static/js/2.de26408b.chunk.js.map": "/BlogReactRedux/static/js/2.de26408b.chunk.js.map",
+    "main.js": "/BlogReactRedux/static/js/main.d8fcadf2.chunk.js",
+    "main.js.map": "/BlogReactRedux/static/js/main.d8fcadf2.chunk.js.map",
+    "runtime-main.js": "/BlogReactRedux/static/js/runtime-main.2f39b05a.js",
+    "runtime-main.js.map": "/BlogReactRedux/static/js/runtime-main.2f39b05a.js.map",
+    "static/js/2.c70b6c49.chunk.js": "/BlogReactRedux/static/js/2.c70b6c49.chunk.js",
+    "static/js/2.c70b6c49.chunk.js.map": "/BlogReactRedux/static/js/2.c70b6c49.chunk.js.map",
     "index.html": "/BlogReactRedux/index.html",
-    "precache-manifest.1f58c7d460b19b8e90615577cfc4f940.js": "/BlogReactRedux/precache-manifest.1f58c7d460b19b8e90615577cfc4f940.js",
+    "precache-manifest.4d76bd292ec006e8902a950696e3f2dc.js": "/BlogReactRedux/precache-manifest.4d76bd292ec006e8902a950696e3f2dc.js",
     "service-worker.js": "/BlogReactRedux/service-worker.js",
-    "static/js/2.de26408b.chunk.js.LICENSE.txt": "/BlogReactRedux/static/js/2.de26408b.chunk.js.LICENSE.txt"
+    "static/js/2.c70b6c49.chunk.js.LICENSE.txt": "/BlogReactRedux/static/js/2.c70b6c49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea20577e.js",
-    "static/js/2.de26408b.chunk.js",
-    "static/js/main.c32e0911.chunk.js"
+    "static/js/runtime-main.2f39b05a.js",
+    "static/js/2.c70b6c49.chunk.js",
+    "static/js/main.d8fcadf2.chunk.js"
   ]
 }
